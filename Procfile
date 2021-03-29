@@ -1,1 +1,1 @@
-web: gunicorn locallibrary.wsgi
+web: gunicorn voteblock.wsgi
