@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'e5t#@ykrto$b3urgker$q7+2wf5_e4&l7r0rr!s!u^zzoxjrjz'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.0","vic-voting.herokuapp.com"]
 
